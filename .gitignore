@@ -1,0 +1,12 @@
+# Bytecode & Caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Raw Data files
+data/
+*.zip
+
+# Virtual Environments
+.venv/
+env/
